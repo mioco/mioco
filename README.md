@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 - 简历 https://cv.osyo.monster/
-- 博客园 https://www.cnblogs.com/osyo
 <!--
 **mioco/mioco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
